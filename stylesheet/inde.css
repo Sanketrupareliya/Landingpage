@@ -115,6 +115,7 @@ body{
 .thor{
     background-color: #E5E7EB;
     height: 400px;
+    display: flex;
 }
 .contai{
     padding-top: 125px;
@@ -122,6 +123,7 @@ body{
     flex-direction: column;
     margin-left: 250px;
     margin-right: 250px;
+    flex-shrink: 5;
 }
 .slo{
     font-size: 30px;
