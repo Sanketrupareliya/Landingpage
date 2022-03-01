@@ -178,13 +178,14 @@ body{
     width: 120px;
     height: 35px;
 }
-.copy{
+/* .copy{
     margin-top: 30px;
     margin-bottom: 30px;
     display: flex;
     justify-content: center;
-}
-.copri{
+} */
+footer{
     color: #F9FAF8;
     font-size: 16px;  
+    text-align: center;
 }
